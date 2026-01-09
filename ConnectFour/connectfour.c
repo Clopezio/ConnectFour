@@ -109,6 +109,7 @@ void menu(){
             printf("-----   GOOD BYE   -----\n\n");
             sleepExecution(2000);
             clearScreen();
+            exit(0);
         }
         else {
             clearScreen();

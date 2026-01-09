@@ -1,0 +1,12 @@
+Il gioco e' in una griglia 6x7
+
+Creare la griglia 6x7 
+
+stamparla con un interfaccia utente bella
+
+assegnare anche mostrandolo nella GUI un numero ad ogni colonna verticale in modo tale che l'utente possa inserire i piselli
+
+Creare un menu' di gioco che permette all'utente di scegliere se giocare con PvP o PvBOT
+
+Creare un algoritmo che riesce a giocare a forza 4 insieme all'utente
+
